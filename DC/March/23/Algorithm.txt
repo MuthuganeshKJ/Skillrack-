@@ -1,0 +1,11 @@
+STEP 1: Store input in a string
+
+STEP 2: Find its length
+
+STEP 3: Initiate a while loop (ie. while(ture))
+
+STEP 4: If overlaping found get that index and delete that element and decrement length increment count
+
+STEP 5: If if no overlaping found but lenght is odd delete delete the last element , decrement lenght and increment count
+
+STEP 6: If no overlapping found and lenght is even break the while loop and print count
