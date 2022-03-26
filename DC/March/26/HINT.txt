@@ -1,0 +1,10 @@
+DYNAMIC MEMORY ALLOCATION FOR 2 D ARRAY IN C
+______________________________________________
+
+int **MATARR = (int**)(malloc(sizeof(int *)*R)
+
+for(int i=0; i<row; i++)
+  MATARR = (int*)(malloc(sizeof(int)*C)
+ 
+______________________________________________
+
